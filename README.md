@@ -1,1 +1,1 @@
-# javascript
+# Some examples of JS
